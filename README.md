@@ -30,27 +30,27 @@ eMaill@student.fullsail.edu -- (###) ###-####
 # Instructions   
 
 ## Basic Criteria:
-Research a JS Library, CSS Library, or React Component that will be helpful in your Main Portfolio Project.
-Work with the Library or Component until you are confident that you understand and are able to explain it to others.
-Create a small example project that utilizes the Library or Component.
-This example project should be posted to a Repo in your GitHub account and a link should be provided.
-Record a 3-10 Minute video tutorial on the chosen Library or Component.
-Post the video to MS Stream and submit the link along with a brief paragraph about why you chose this Library or Component.
+#### Research a JS Library, CSS Library, or React Component that will be helpful in your Main Portfolio Project.
+#### Work with the Library or Component until you are confident that you understand and are able to explain it to others.
+#### Create a small example project that utilizes the Library or Component.
+#### This example project should be posted to a Repo in your GitHub account and a link should be provided.
+#### Record a 3-10 Minute video tutorial on the chosen Library or Component.
+#### Post the video to MS Stream and submit the link along with a brief paragraph about why you chose this Library or Component.
 
 
 ## Code Example
-Make sure you work in the dev branch and push your finished code to the main branch when you are ready to submit.
+#### Make sure you work in the dev branch and push your finished code to the main branch when you are ready to submit.
 
 ## Thing To Keep In Mind
-Make sure to introduce yourself at the start of the video.
-Explain where to get the Library or Component and give credit where it is due.
-Show a working example of the Library or Component that you have created.
-Walk the user through the process of your Tutorial.
-The video should be between 3-10 minutes long. 
+#### Make sure to introduce yourself at the start of the video.
+#### Explain where to get the Library or Component and give credit where it is due.
+#### Show a working example of the Library or Component that you have created.
+#### Walk the user through the process of your Tutorial.
+#### The video should be between 3-10 minutes long. 
 
 
 ## Submitting Your Work
-Submit a PDF document that explains why you have chosen the Library or Component.
-The PDF must look professional, not just words on a page.
-The PDF must contain a hyperlink to the tutorial video.
-The finsihed code example should be pushed from the dev branch to the main.
+#### Submit a PDF document that explains why you have chosen the Library or Component.
+#### The PDF must look professional, not just words on a page.
+#### The PDF must contain a hyperlink to the tutorial video.
+#### The finished code example should be pushed from the dev branch to the main.
