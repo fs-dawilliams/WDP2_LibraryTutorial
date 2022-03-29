@@ -14,9 +14,9 @@ Please fill out the information below
 Here's some additional information about me...
 
 
-![Degree Program](https://img.shields.io/badge/Degree-Web%20Development-orange)
+![Degree Program](https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
 <br>
-![Class Name](https://img.shields.io/badge/Class-Project%20and%20Portfolio%20II-orange)
+![Class Name](https://img.shields.io/badge/Class-Project%20and%20Portfolio%20II-orange?logo=react)
 
 
 
